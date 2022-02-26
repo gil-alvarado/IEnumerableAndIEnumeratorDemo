@@ -138,7 +138,7 @@ namespace IEnumerableAndIEnumeratorDemo
             {
                 new Dog("Casper", false),
                 new Dog("Sif", true),
-                new Dog("Oreo", false),
+                new Dog("Oreo", true),
                 new Dog("Pixel", false)
             };
         }
